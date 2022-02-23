@@ -40,7 +40,7 @@
 
 ## Languages and Tools :
 
-### Frontend
+### Frontend & Backend Web
 
 <div align="center">  
   <img 
@@ -72,12 +72,7 @@
     style="margin: 10px" 
     src="./assets/bootstrap.svg" 
     alt="Bootstrap" 
-    height="40" />
-</div>
-
-### Backend
-
-<div align="center">  
+    height="40" /> 
   <img
     style="margin: 10px" 
     src="./assets/mysql.svg" 
