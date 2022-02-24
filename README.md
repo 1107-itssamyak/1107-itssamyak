@@ -105,18 +105,23 @@
     height="40" />  
 </div>
 
-### Version Control / Web Services :
+### Version Control / Web Services / Tools :
 
 <div align="center">
   <img 
     style="margin: 10px" 
-    src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" 
+    src="./assets/git.svg" 
     alt="Git" 
     height="40" />
   <img 
     style="margin: 10px" 
-    src="https://profilinator.rishav.dev/skills-assets/firebase.png" 
+    src="./assets/firebase.svg" 
     alt="Firebase" 
+    height="40" />
+  <img 
+    style="margin: 10px" 
+    src="./assets/figma.svg" 
+    alt="Figma" 
     height="40" />
 </div>
 
