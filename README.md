@@ -4,7 +4,7 @@
 
 <br/>
 
-- 💬 I’m currently learning **Front End Framework** from the MERN stack
+- 💬 I’m currently learning technologies from the **MERN stack**
 
 - 📫 Reach me at **samyak.mehta11@gmail.com**
 
@@ -44,37 +44,37 @@
 
 <div align="center">  
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/html-5.svg" 
     alt="HTML5" 
     height="40" />  
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/css3.svg" 
     alt="CSS3" 
     height="40" />  
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/sass.svg" 
     alt="sass" 
     height="40" />
   <img 
-    style="margin: 10px;" 
+    style="margin: 4px; background-color: white; padding: 4px; border-radius: 8px;" 
     src="./assets/tailwind-css.svg" 
     alt="tailwind css"
     height="40" />
   <img
-    style="margin: 10px" 
+    style="margin: 4px; background-color: white; padding: 4px; border-radius: 8px;" 
     src="./assets/react.svg" 
     alt="React" 
     height="40" />  
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/bootstrap.svg" 
     alt="Bootstrap" 
     height="40" /> 
   <img
-    style="margin: 10px" 
+    style="margin: 4px; background-color: white; padding: 4px; border-radius: 8px;" 
     src="./assets/mysql.svg" 
     alt="MySQL" 
     height="40" /> 
@@ -84,22 +84,22 @@
 
 <div align="center">  
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/c++.svg" 
     alt="c++" 
     height="40" />  
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/java.svg" 
     alt="java" 
     height="40" />  
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/javascript.svg" 
     alt="javascript" 
     height="40" />  
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/python.svg" 
     alt="python" 
     height="40" />  
@@ -109,17 +109,17 @@
 
 <div align="center">
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/git.svg" 
     alt="Git" 
     height="40" />
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/firebase.svg" 
     alt="Firebase" 
     height="40" />
   <img 
-    style="margin: 10px" 
+    style="margin: 5px; padding: 5px;"
     src="./assets/figma.svg" 
     alt="Figma" 
     height="40" />
