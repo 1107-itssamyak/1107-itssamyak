@@ -8,6 +8,8 @@
 
 - 📫 Reach me at **samyak.mehta11@gmail.com**
 
+- 😀 Visit my website at <a href="https://samyak-mehta.web.app" target="_blank">**_Samyak Mehta_**</a>
+
 - ⚡ Fun fact **"Coffee in winter tastes way better than Coffee in summer!"**
 
 <br />
@@ -15,14 +17,16 @@
 ## Connect with me:
 
 <div align="center">
-  <a href="https://github.com/1107-itssamyak" target="_blank">
+  <a href="https://github.com/1107-itssamyak" 
+  target="_blank">
   <img 
     src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" 
     alt=github 
     style="margin: 5px;" />
 </a>
 <a 
-  href="https://www.linkedin.com/in/samyak-mehta11/"  target="_blank">
+  href="https://www.linkedin.com/in/samyak-mehta11/"
+   target="_blank">
     <img 
       src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin 
       style="margin: 5px;" />
@@ -126,7 +130,6 @@
 </div>
 
 <br/>
-
 <br/>
 
 <p> 
